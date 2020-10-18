@@ -1,0 +1,65 @@
+[
+    {
+        "id": 0,
+        "name": "Tokyo",
+        "values": [
+            {
+                "day": 4,
+                "degree": 25.2,
+                "status": "4"
+            },
+            {
+                "day": 5,
+                "degree": 26.7,
+                "status": "4"
+            },
+            {
+                "day": 6,
+                "degree": 28,
+                "status": "5"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "London",
+        "values": [
+            {
+                "day": 4,
+                "degree": 15.6,
+                "status": "1"
+            },
+            {
+                "day": 5,
+                "degree": 8.7,
+                "status": "1"
+            },
+            {
+                "day": 6,
+                "degree": 3.4,
+                "status": "2"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "New York",
+        "values": [
+            {
+                "day": 4,
+                "degree": 20.6,
+                "status": "3"
+            },
+            {
+                "day": 5,
+                "degree": 20.7,
+                "status": "4"
+            },
+            {
+                "day": 6,
+                "degree": 20.4,
+                "status": "1"
+            }
+        ]
+    }
+]
